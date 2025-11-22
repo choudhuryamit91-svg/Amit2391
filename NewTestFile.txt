@@ -1,1 +1,2 @@
 newfiletest
+new details
