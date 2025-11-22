@@ -1,2 +1,7 @@
 newfile
+<<<<<<< HEAD
 fileupdatedinlogin
+newcontent
+=======
+newcontent
+>>>>>>> dashboard
